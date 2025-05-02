@@ -14,17 +14,17 @@ Calculate minimum, maximum, and average base pay, analyze salaries by year and j
 Perform operations like replacing 'Not Provided' with NaN, handling missing values, and working with categorical data such as job titles and departments.
 
 ## Questions Addressed:
-### Display top and bottom rows of the dataset.
+ Display top and bottom rows of the dataset.
 
-### Identify shape and structure of the dataset.
+ Identify shape and structure of the dataset.
 
-### Check for missing values and handle them appropriately.
+ Check for missing values and handle them appropriately.
 
-### Calculate salary statistics including base pay and benefits.
+ Calculate salary statistics including base pay and benefits.
 
-### Analyze the occurrence of specific job titles and employees.
+ Analyze the occurrence of specific job titles and employees.
 
-### Handle text-based data and categorize employee roles based on job titles.
+ Handle text-based data and categorize employee roles based on job titles.
 
-### This project will give you a deep understanding of data manipulation, cleaning, and analysis in real-world datasets using Pandas.
+ This project will give you a deep understanding of data manipulation, cleaning, and analysis in real-world datasets using Pandas.
 
